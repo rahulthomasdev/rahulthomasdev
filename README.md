@@ -1,30 +1,27 @@
 <h1 align="center">
 Hi, I'm Rahul!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+  <img src="https://www.dropbox.com/scl/fi/gqsy1s0ylm828p2ifxix6/messagif.gif?rlkey=2aojtehx788z0u3j6vj183llp&st=yndf2nxa&raw=0" width="30"></h1>
+ <!--<img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> -->
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://www.dropbox.com/scl/fi/d41obqh17cx575vqqd7s6/messagif-1-1.gif?rlkey=4hf9efmlljcvmfnkoppctvxw6&st=je8sz11l&raw=1"></a>
 </p>
 
-<img align="left" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<!--<img align="left" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="480" -->
 <hr>
 
 ```
 rahulthomasdev@github
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
+📚 I have a Bachelors in Computer Science 
 📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
+🌱 Learning about DevOps Engineering
 🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+🚩 Interested in Full Stack development
+🎵 Love pop, lofi, jazz and soft music
 ```
 <hr>
 
@@ -46,14 +43,10 @@ rahulthomasdev@github
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+    <a href="#"><img alt="Nextjs" src="https://www.dropbox.com/scl/fi/y42e3h09vjjf2z3iiwu5r/nextjs-icon.png?rlkey=mx7w3z4gadx28swrq88wa0wdc&st=tbl2l8ho&raw=1" width="30"></a>
 
 </p>
 
@@ -106,7 +99,7 @@ rahulthomasdev@github
 
 
 
-
+<!--
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
@@ -130,10 +123,9 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
   </td>
   </tr>
 </table>
-
+-->
 ------
-Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
-Last Edited On: 18/04/2022
+
 
 
 
