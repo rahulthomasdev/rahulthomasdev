@@ -14,7 +14,7 @@ Hi, I'm Rahul!
 <hr>
 
 ```
-I-am-vishalmaurya@github
+rahulthomasdev@github
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📚 I have a Bachelors in Computer Science from the University of Mumbai at India
