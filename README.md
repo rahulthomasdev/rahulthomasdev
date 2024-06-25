@@ -15,12 +15,12 @@ Hi, I'm Rahul!
 ```
 rahulthomasdev@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+💻 I am a self taught Full Stack Developer
 📚 I have a Bachelors in Computer Science 
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌱 Learning about DevOps Engineering
 🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack development
+🚩 Interested in Full Stack development, ML, AI
 🎵 Love pop, lofi, jazz and soft music
 ```
 <hr>
